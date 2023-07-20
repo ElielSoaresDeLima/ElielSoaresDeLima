@@ -10,3 +10,5 @@ elielsoaresdelima@hotmail.com
 @eliel.lima
 
 (![image](https://github.com/ElielSoaresDeLima/ElielSoaresDeLima/assets/140028475/25d5a1d2-28d9-43c2-a449-59e6df05170a)
+
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aluraonline/)
